@@ -187,12 +187,12 @@ valley|n.|山谷；溪谷|The valley was hidden from view in the mist
 hillside|n.|小山的山腰；山坡|The path steepened as they climed the hillside
 overlook|v.|远眺；俯瞰；未注意到|The house on the hill overlooks the village|be easily overlook 容易被忽略的
 ---
-southern|adj.|南方的|Only in the southern part of Taiwan have I seen such scenery
-southeast|n./adj.|Austria lies to the southeast of Germany
-southwest|n./adj.|Ireland is in the southwest of the British Isles
+southern|adj.|南部的；南方的|Only in the southern part of Taiwan have I seen such scenery
+southeast|n./adj.|东南方；东南部/东南方的；东南部的|Austria lies to the southeast of Germany
+southwest|n./adj.|西南方；西南部/西南方的；西南部的|Ireland is in the southwest of the British Isles
 ---
-northeast|n./adj.|Snow in October is nothing strange in northeast China
-northwest|n./adj.|There is a large hilly area in the northwest
+northeast|n./adj.|东北方；东北部/东北方的；东北部的|Snow in October is nothing strange in northeast China
+northwest|n./adj.|西北方；西北部/西北方的；西北部的|There is a large hilly area in the northwest
 eastern|adj.|东方的|The eastern situation is similarly intense
 oriental|adj.|东方的（尤其指中日）|She has studied the cultures of oriental countries
 ---
@@ -4168,7 +4168,7 @@ stomach|n.|胃口；胃；腹部|He had eaten too much and his stomach started t
 womb|n.|子宫；发源地|The competition basically starts when the kids are in the womb
 kidney|n.|肾脏|Each peason has a pair of kidneys
 ---
-lung|n.|肺|A lot of patients are suffering the pain of lung cancer 
+lung|n.|肺|A lot of patients are suffering the pain of lung cancer
 gland|n.|腺|His internal secretary gland can not work 内分泌腺
 chamber|n.|室；腔；议院|The heart has four chambers
 intestine|n.|肠|Each day 7 to 10 liters of water enter the small intestine
