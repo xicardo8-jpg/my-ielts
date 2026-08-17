@@ -1581,7 +1581,7 @@ verbal|adj.|口头的；言语的|Don't be afraid of verbal abuse or criticism.|
 syllable|n.|音节|The stress is on the last syllable.
 phoneme|n.|音位|In actual speech, a phoneme is realized phonetically as a certain phone
 vowel|n.|元音|Each language has a different vowel system
-consonant|n.|辅音|These are common consonant clusters at the beginning of words/像crack中的cr就是consonant cluster
+consonant|n.|辅音|These are common consonant clusters at the beginning of words|像 crack 中的 cr 就是 consonant cluster
 ---
 alphabet|n.|字母表；（一种语言的）全部字母|Q comes between P and R in the English alphabet
 logogram|n.|语标，缩记符（如& 、@等） ;非字母语言的字符|ACP is the logogram of English of the African, Caribbean and Pacific states
