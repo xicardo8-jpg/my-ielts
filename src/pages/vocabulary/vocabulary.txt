@@ -1584,7 +1584,7 @@ vowel|n.|元音|Each language has a different vowel system
 consonant|n.|辅音|These are common consonant clusters at the beginning of words|像 crack 中的 cr 就是 consonant cluster
 ---
 alphabet|n.|字母表；（一种语言的）全部字母|Q comes between P and R in the English alphabet
-logogram|n.|语标，缩记符（如& 、@等） ;非字母语言的字符|ACP is the logogram of English of the African, Caribbean and Pacific states
+logogram|n.|语标，缩记符（如& 、@等） ;非字母语言的字符|ACP is the logogram of English of the African, Caribbean and Pacific state|注：感觉这个例句有问题，大家自行斟酌
 vocabulary|n.|词汇|His vocabulary was sound and his grammer was excellent
 dictionary|n.|词典；字典|The dictionary is a vast treasure trove of information|treasure trove 宝库
 ---
