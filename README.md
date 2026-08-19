@@ -9,7 +9,7 @@
 <p><br></p>
 <p><br></p>
 <h1 align='center'>
-  My <span>IELTS™</span>
+  徐金 <span>IELTS 7.0</span>
 </h1>
 
 <h2>在线地址 <a href="https://hefengxian.github.io/my-ielts/#/">https://hefengxian.github.io/my-ielts/</a></h2>
@@ -23,7 +23,7 @@
 
 ## 概述
 
-雅思备考资料，包含词汇、语法、听说读写最出名的一些内容
+徐金的 IELTS 7.0 个人学习与复盘中心，覆盖词汇、语法、听说读写训练。
 
 - [x] 词汇练习模式
 
@@ -91,7 +91,7 @@
 
 ### 口语
 
-TODO
+个人答案与故事素材整理入口，后续加入 Part 1、Part 2、Part 3 训练内容。
 
 ### 阅读
 
@@ -115,6 +115,13 @@ TODO
   <source media="(prefers-color-scheme: light)" srcset="public/screenshot/screenshot-writing-light.png">
   <img alt="Writing" src="public/screenshot/screenshot-writing-light.png">
 </picture>
+
+## 徐金 IELTS 7.0 训练方向
+
+- 阅读：同义替换、定位词、真题精读与错题复盘
+- 写作：Task 2 主题词汇、观点论证链与作文修改
+- 口语：自然表达、故事素材与观点展开
+- 学习追踪：每日记录、模考成绩、弱项分析与阶段目标
 
 ## 开发
 
